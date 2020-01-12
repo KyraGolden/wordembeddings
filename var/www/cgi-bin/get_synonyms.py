@@ -71,4 +71,4 @@ def find_synonyms(fname, word, anzahl):
     #return(key_min)
 
 if __name__ == "__main__":
-    find_synonyms("../../../short.cc.de.300.vec", 'Ehefrau', 2)
+    find_synonyms("../../../short.cc.de.300.vec", 'Blau', 2)
